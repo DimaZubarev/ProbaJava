@@ -1,3 +1,4 @@
+package proba.practic;
 
 public class Tasc1 {
     public static void main(String[] args) {

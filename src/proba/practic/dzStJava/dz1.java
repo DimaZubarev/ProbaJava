@@ -1,4 +1,4 @@
-package proba.practic.dzStJava9;
+package proba.practic.dzStJava;
 
 public class dz1 {
     //При помощи цикла for вывести на экран нечетные числа от 1 до 99.

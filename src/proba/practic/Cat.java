@@ -1,4 +1,4 @@
-package proba;
+package proba.practic;
 
 import javax.swing.text.View;
 

@@ -1,4 +1,4 @@
-package proba.practic;
+package proba.practic.dzStJava;
 
 // Даны 4 числа типа int.
 // Сравнить их и вывести наименьшее на консоль.

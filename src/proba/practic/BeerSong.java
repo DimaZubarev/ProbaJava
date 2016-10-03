@@ -1,4 +1,4 @@
-package proba;
+package proba.practic;
 
 public class BeerSong{
     public static void main(String[] args) {

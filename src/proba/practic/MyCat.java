@@ -1,4 +1,4 @@
-package proba;
+package proba.practic;
 
 
 import com.sun.glass.ui.View;

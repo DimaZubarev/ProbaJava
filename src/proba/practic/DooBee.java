@@ -1,4 +1,4 @@
-package proba;
+package proba.practic;
 
 public class DooBee {
     public static void main(String[] args) {

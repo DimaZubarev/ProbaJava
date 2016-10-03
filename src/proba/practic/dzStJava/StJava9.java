@@ -1,4 +1,4 @@
-package proba.practic;
+package proba.practic.dzStJava;
 
 public class StJava9 {
     public static void main(String[] args) {

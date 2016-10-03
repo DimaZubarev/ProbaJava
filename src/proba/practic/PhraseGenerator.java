@@ -1,4 +1,4 @@
-package proba;
+package proba.practic;
 // генератор випадкових фраз
 
 public class PhraseGenerator {

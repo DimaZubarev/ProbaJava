@@ -62,10 +62,10 @@ public class ListArray {
 
 
 
-//        UnaryOperator <Integer> oprator = new UnaryOperator<Integer>() {
+//        UnaryOperator <Integer> operator = new UnaryOperator<Integer>() {
 //            @Override
 //            public Integer apply(Integer integer) {
-//                if (integer.contains(8)) {         //  contains всі елементи з 8 заміняться на null, якщо використати equals,
+//                if (integer.equals(8)) {         //  contains всі елементи з 8 заміняться на null, якщо використати equals,
 //                    return null;                   // то видалить тільки елемент 8.
 //                }
 //                return integer;

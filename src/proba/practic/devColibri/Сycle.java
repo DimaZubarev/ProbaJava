@@ -34,13 +34,13 @@ public class Сycle {
         }
         System.out.println("");
 
-        //Метод форич з масивами 1вар
+        //Метод форич з масивами str
         for(String s : str){
             System.out.println(s);
         }
         System.out.println("");
 
-        //Метод форич з масивами 2вар - поки не розумію, що за  .split(" ")
+        //Метод форич з масивами stri - поки не розумію, що за  .split(" ")
         for(String t : stri){
             System.out.println(t);
         }

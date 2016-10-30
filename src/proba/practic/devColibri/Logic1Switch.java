@@ -1,6 +1,6 @@
 package proba.practic.devColibri;
 
-public class Logic1 {
+public class Logic1Switch {
     public static void main(String[] args) {
         int x = 3;
         //Якщо свіч поставити після іф він не буде працювати

@@ -21,7 +21,6 @@ public class ComparatorString {
                 return o1.compareTo(o2);
             }
         };
-
         listword.sort(s);
         System.out.println(listword);
     }

@@ -24,7 +24,7 @@ public class ComparatorInt {
             }
         };
         listnum.sort(c);
-        System.out.println(listnum); // 'kj'kjfa'
+        System.out.println(listnum);
     }
 
 }

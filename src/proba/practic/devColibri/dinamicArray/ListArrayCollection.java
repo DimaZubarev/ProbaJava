@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.function.UnaryOperator;
 
-public class ListArray {
+public class ListArrayCollection {
     public static void main(String[] args) {
 
         // List listNambers = new ArrayList(); - в такому вигляді ми можемо добавляти будь що (String, int, double ...)
@@ -56,13 +56,10 @@ public class ListArray {
 
         System.out.println("Contains: " + listNambers.contains(111)); // contains виводить чи є у нас такий елемент чи нема
 
-        listNambers.removeAll(listNambers2);
+        listNambers.removeAll(listNambers2); // видаляє з листа доданий лист
         System.out.println(listNambers);
 
-
-
-
-//        UnaryOperator <Integer> operator = new UnaryOperator<Integer>() {
+//          UnaryOperator <Integer> operator = new UnaryOperator<Integer>() {
 //            @Override
 //            public Integer apply(Integer integer) {
 //                if (integer.equals(8)) {         //  contains всі елементи з 8 заміняться на null, якщо використати equals,
@@ -73,15 +70,5 @@ public class ListArray {
 //        };
 
 //        listNambers.replaceAll(oprator); // replaceAll метод який змінює мої елементи по якомусь завчасно написаному правилу
-
-//        Неможу повторити метод
-
-
-
-//        Iterator<Integer>  iterator = listNambers.iterator();
-//        while (iterator.hasNext());{             // перевіряє чи є наступний елемент в нашому списку
-//            System.out.println(iterator.next()); // переходить да наступного числа
-//        }
-
     }
 }

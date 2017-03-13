@@ -1,7 +1,7 @@
 package praktik_Schildt.glava7_classesAndMethods.passingArguments.callByReference;
 
 public class Test1 {
-    // виклик по посиланню(перемінні в методі міняють значення)
+    // виклик по посиланню(перемінні в методі міняють значення)''''''''''''''''''''''''''''
     int a, b;
 
     public Test1(int i, int j){
